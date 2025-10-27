@@ -27,12 +27,10 @@
 
 ## ER-диаграмма (для вставки в отчет)
 
-В репозитории есть готовый файл `er_diagram.drawio`, который можно открыть в Draw.io (diagrams.net) и экспортировать в PNG/PDF:
+В репозитории есть `er_diagram.drawio`, который можно открыть в Draw.io (diagrams.net) и экспортировать в PNG/PDF:
 
 1. Откройте https://app.diagrams.net/
 2. File -> Open From -> Device -> выберите `er_diagram.drawio`
-3. При необходимости отредактируйте
-4. File -> Export as -> PNG (или PDF) — сохраните для отчёта
 
 Альтернативно вы можете использовать `er_diagram.puml` (PlantUML) или `generate_er_diagram_pydot.py`.
 
@@ -179,3 +177,4 @@ library_system/
 ---
 
 Автор: Ваша лабораторная работа №3 — система управления библиотекой
+
